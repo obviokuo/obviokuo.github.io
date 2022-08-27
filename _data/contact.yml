@@ -15,6 +15,10 @@
   icon: 'fab fa-telegram'
   url: 'https://telegram.org/obvio234'
 -
+  type: weibo
+  icon: 'fab fa-weibo'
+  url: 'https://weibo.com/u/6049673212'
+-
   type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
