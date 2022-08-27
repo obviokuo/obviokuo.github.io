@@ -52,6 +52,7 @@ social:
     - https://instagram.com/obvio111    # change to your instagram homepage
     - https://telegram.org/obvio234     # change to your telegram homepage
     - https://zhihu.com/people/guo-chang-yin-5    # change to your weibo homepage
+    - https://douban.com    # change to your douban homepage
     - https://weibo.com/u/6049673212    # change to your weibo homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -63,7 +64,7 @@ google_site_verification:               # fill in to your verification string
 # The end of `jekyll-seo-tag` settings
 
 google_analytics:
-  id:                 # fill in your Google Analytics ID
+  id: 'G-RX0RB74W1Z'  # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
