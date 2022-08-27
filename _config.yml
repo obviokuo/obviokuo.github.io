@@ -122,9 +122,6 @@ paginate: 10
 
 ignore_theme_config: true  #solve /admin cant't open
 
-plugins:
-  - jekyll-seo-tag
-
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
