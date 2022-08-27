@@ -4,5 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# 你想要的都会有
+毕淑敏
+>在你光芒万丈之前，我们都要欣然接受眼下的难堪和不易，接受一个人的孤独和偶然无助，认真做好眼下的每一件事，你想要的都会有

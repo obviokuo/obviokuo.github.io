@@ -29,7 +29,7 @@ description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://obviokuo.github.io'
 
 github:
   username: obviokuo             # change to your github username
@@ -46,6 +46,7 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/guocy186      # change to your twitter homepage
     - https://github.com/obviokuo       # change to your github homepage
+    - https://instagram.com/obvio111       # change to your instagram homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -80,7 +81,7 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: https://avatars.githubusercontent.com/u/112235916?s=400&u=92c52f208c22b272d9e6849ed80ac2113cd0c977&v=4
 
 # the avatar on sidebar, support local or CORS resources
 avatar: https://avatars.githubusercontent.com/u/112235916?s=400&u=92c52f208c22b272d9e6849ed80ac2113cd0c977&v=4
