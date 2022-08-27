@@ -20,8 +20,8 @@
   url: 'https://zhihu.com/people/guo-chang-yin-5'
 -
   type: douban
-  icon: 'fab fa-douban'
-  url: 'https://douban.com'
+  icon: 'fab fa-imdb'
+  url: 'https://douban.com/people/Obvio'
 -
   type: weibo
   icon: 'fab fa-weibo'
