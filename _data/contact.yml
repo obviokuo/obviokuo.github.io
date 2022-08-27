@@ -15,6 +15,10 @@
   icon: 'fab fa-telegram'
   url: 'https://telegram.org/obvio234'
 -
+  type: zhihu
+  icon: 'fab fa-zhihu'
+  url: 'https://zhihu.com/people/guo-chang-yin-5'
+-
   type: weibo
   icon: 'fab fa-weibo'
   url: 'https://weibo.com/u/6049673212'
