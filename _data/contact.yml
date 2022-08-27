@@ -7,6 +7,9 @@
   type: twitter
   icon: 'fab fa-twitter'
 -
+  type: instagram
+  icon: 'fab fa-instagram'
+-
   type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
