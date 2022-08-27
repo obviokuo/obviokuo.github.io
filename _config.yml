@@ -16,7 +16,7 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: Asia/Shanghai
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -119,6 +119,11 @@ pwa:
   enabled: true   # the option for PWA feature
 
 paginate: 10
+
+ignore_theme_config: true  #solve /admin cant't open
+
+plugins:
+  - jekyll-seo-tag
 
 # ------------ The following options are not recommended to be modified ------------------
 
