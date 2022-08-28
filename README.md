@@ -1,8 +1,8 @@
 <div align="center">
 
-  # Chirpy Jekyll Theme
+  # Obvio Jekyll Theme
 
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  A simple and awesome Jekyll theme based on Chirpy for presenting professional writing.
 
   [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy?color=brightgreen)](https://rubygems.org/gems/jekyll-theme-chirpy)
   [![Build Status](https://github.com/cotes2020/jekyll-theme-chirpy/workflows/build/badge.svg?branch=master&event=push)](https://github.com/cotes2020/jekyll-theme-chirpy/actions?query=branch%3Amaster+event%3Apush)
