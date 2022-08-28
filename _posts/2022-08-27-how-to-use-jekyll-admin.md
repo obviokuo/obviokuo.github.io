@@ -1,6 +1,6 @@
 ---
 title: How to use Jekyll-Admin plugin?
-author: cotes
+author: obvio
 date: 2022-08-27 17:51:00 +0800
 categories: [Blogging, Issues]
 tags: [writing,bug]

@@ -1,5 +1,6 @@
 ---
 title: Hello Obvio
+author: obvio
 date: 2022-08-27 12:00:00 +800
 categories: [Blog,teach]
 tags: [hello,test]  # TAG name should always be lowercase
