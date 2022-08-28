@@ -154,7 +154,7 @@ _shadow effect (visible in light mode)_
 
 - Left aligned
 
-![Desktop View](/commons/iPhone12ProMaxPacificBlue.png){: width="972" height="589" style="max-width: 20%" .normal}
+![Desktop View](/commons/iPhone12ProMaxPacificBlue.png){: width="972" height="589" style="max-width: 30%" .normal}
 
 <br>
 
