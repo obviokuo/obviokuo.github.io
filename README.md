@@ -89,5 +89,5 @@ This work is published under [MIT](https://github.com/cotes2020/jekyll-theme-chi
 <!-- ReadMe links -->
 
 <!-- [jb]: https://www.jetbrains.com/?from=jekyll-theme-chirpy-->
-[cn-donation1]: https://github.com/obviokuo/obviokuo.github.io/blob/main/commons/WeChatpay.JPG
-[cn-donation2]: https://github.com/obviokuo/obviokuo.github.io/blob/main/commons/Alipay.JPG
+[cn-donation1]: https://github.com/obviokuo/obviokuo.github.io/blob/main/commons/WeChatpay.JPG?raw=true
+[cn-donation2]: https://github.com/obviokuo/obviokuo.github.io/blob/main/commons/Alipay.JPG?raw=true
