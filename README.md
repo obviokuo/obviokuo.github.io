@@ -79,8 +79,8 @@ For more details on usage, please refer to the tutorial on the [demo website](ht
 
 If you like this theme or find it helpful, please consider sponsoring me, because it will encourage and help me better maintain the project, I will be very grateful!
 
-[![Wechat Pay](https://img.shields.io/badge/-Tip%20Me%20on%20WeChat-brightgreen?logo=wechat&logoColor=white)][https://github.com/obviokuo/obviokuo.github.io/blob/main/commons/WeChatpay.png]
-[![Alipay](https://img.shields.io/badge/-Tip%20Me%20on%20Alipay-blue?logo=alipay&logoColor=white)][https://github.com/obviokuo/obviokuo.github.io/blob/main/commons/Alipay.png]
+[![Wechat Pay](https://img.shields.io/badge/-Tip%20Me%20on%20WeChat-brightgreen?logo=wechat&logoColor=white)][cn-donation1]
+[![Alipay](https://img.shields.io/badge/-Tip%20Me%20on%20Alipay-blue?logo=alipay&logoColor=white)][cn-donation2]
 
 ## License
 
@@ -88,5 +88,6 @@ This work is published under [MIT](https://github.com/cotes2020/jekyll-theme-chi
 
 <!-- ReadMe links -->
 
-<!-- [jb]: https://www.jetbrains.com/?from=jekyll-theme-chirpy
-[cn-donation]: https://cotes.gitee.io/alipay-wechat-donation/ -->
+<!-- [jb]: https://www.jetbrains.com/?from=jekyll-theme-chirpy-->
+[cn-donation1]: https://github.com/obviokuo/obviokuo.github.io/blob/main/commons/WeChatpay.png
+[cn-donation2]: https://github.com/obviokuo/obviokuo.github.io/blob/main/commons/Alipay.png
