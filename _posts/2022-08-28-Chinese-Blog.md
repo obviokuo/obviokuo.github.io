@@ -43,4 +43,4 @@ _使用 GitHub Pages免费托管_
 
 ## 使用主题
 
-GitHub上有很多主题仓库可供使用，也可以浏览[Jekyll Docs: Themes](https://jekyllrb.com/docs/themes/)了解更多的主题。而我使用的是GitHub上一位叫`Cotes Chung`的大佬提供的一个名为[**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy)的主题。
+GitHub上有很多主题仓库可供使用，也可以浏览[Jekyll Docs: Themes](https://jekyllrb.com/docs/themes/)了解更多的主题。而我使用的是GitHub上一位叫`Cotes Chung`的大佬提供的一个名为[**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy)的主题，只需点击[**Create-a-New-Site**](https://github.com/cotes2020/chirpy-starter/generate)并创建一个新的名为`<GitHub_Username>.github.io`的GitHub仓库，这里`<GitHub_Username>`代表你的GitHub用户名。具体的操作可以查看这位大佬的[**GitHub主页**](https://github.com/cotes2020/jekyll-theme-chirpy)。
