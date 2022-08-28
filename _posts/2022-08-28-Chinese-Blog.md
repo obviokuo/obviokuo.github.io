@@ -6,12 +6,17 @@ categories: [博客]
 tags: [中文]     # TAG names should always be lowercase
 math: true
 mermaid: true
+image:
+  path: /commons/mysite_home.png
+  width: 800
+  height: 500
+  alt: 我的网站首页
 ---
 
 
 # 大家好！欢迎来到我的网站👏！
 
-本网站[`https://obviokuo.github.io`](https://obviokuo.github.io/)是使用[**Jekyll**](https://jekyllrb.com/)框架搭建，并将其部署到[**Github**](https://github.com/)仓库 (repository) 运行的。
+本网站[`https://obviokuo.github.io`](https://obviokuo.github.io/)是使用[**Jekyll**](https://jekyllrb.com/)框架搭建，并将其部署到[**GitHub**](https://github.com/)仓库 (repository) 运行的。
 
 ## 关于 Jekyll
 
@@ -37,3 +42,5 @@ _使用 GitHub Pages免费托管_
 如果你要学习关于如何使用Jekyll发布帖子的用法和技巧，可以查看[Jekyll Docs: Posts](https://jekyllrb.com/docs/posts/)。
 
 ## 使用主题
+
+GitHub上有很多主题仓库可供使用，也可以浏览[Jekyll Docs: Themes](https://jekyllrb.com/docs/themes/)了解更多的主题。而我使用的是GitHub上一位叫`Cotes Chung`的大佬提供的一个名为[**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy)的主题。
