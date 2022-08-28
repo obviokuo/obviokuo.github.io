@@ -27,6 +27,14 @@
   icon: 'fab fa-weibo'
   url: 'https://weibo.com/u/6049673212'
 -
+  type: WeChat
+  icon: 'fab fa-weixin'
+  url: 'https://github.com/obviokuo/obviokuo.github.io/blob/main/commons/WeChat.jpg?raw=true'
+-
+  type: QQ
+  icon: 'fab fa-qq'
+  url: 'https://github.com/obviokuo/obviokuo.github.io/blob/main/commons/QQ.jpg?raw=true'
+-
   type: email
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
