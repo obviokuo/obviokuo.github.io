@@ -12,7 +12,7 @@
 
   [**Live Demo →**](https://obviokuo.github.io/)
 
-  [![Devices Mockup](https://github.com/obviokuo/obviokuo.github.io/blob/main/commons/site_devices.png)](https://cotes2020.github.io/chirpy-demo)
+  [![Devices Mockup](https://gitee.com/guocy112/obvio/raw/master/site_devices.png)](https://cotes2020.github.io/chirpy-demo)
 
 </div>
 
@@ -90,4 +90,4 @@ This work is published under [MIT](https://github.com/cotes2020/jekyll-theme-chi
 
 <!-- [jb]: https://www.jetbrains.com/?from=jekyll-theme-chirpy-->
 [cn-donation1]: https://gitee.com/guocy112/obvio/raw/master/WeChatpay.JPG
-[cn-donation2]: https://github.https://gitee.com/guocy112/obvio/raw/master/Alipay.JPG
+[cn-donation2]: https://gitee.com/guocy112/obvio/raw/master/Alipay.JPG
