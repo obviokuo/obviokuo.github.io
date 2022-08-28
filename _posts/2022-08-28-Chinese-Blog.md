@@ -13,6 +13,8 @@ mermaid: true
 
 本网站[`https://obviokuo.github.io`](https://obviokuo.github.io/)是使用[**Jekyll**](https://jekyllrb.com/)框架搭建，并将其部署到[**Github**](https://github.com/)仓库 (repository) 运行的。
 
+## 关于 Jekyll
+
 ![img-description](https://jekyllrb.com/img/logo-2x.png){: width="200" height="100" }
 _Jekyll logo_
 
@@ -33,3 +35,5 @@ _Jekyll logo_
 _使用 GitHub Pages免费托管_
 
 如果你要学习关于如何使用Jekyll发布帖子的用法和技巧，可以查看[Jekyll Docs: Posts](https://jekyllrb.com/docs/posts/)。
+
+## 使用主题
