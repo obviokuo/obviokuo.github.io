@@ -7,13 +7,13 @@ tags: [typography]
 math: true
 mermaid: true
 image:
-  path: /commons/site_mac.png
+  path: /commons/site_devices.png
   width: 800
   height: 500
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
-This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let's start looking at text and typography.
+This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let's start looking at text and typography. The title figure is the view open this site on Macbook Pro and iPhone, We can easy to make this mockup from <https://facebook.design/devices>.
 
 
 ## Titles
