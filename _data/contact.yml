@@ -29,11 +29,11 @@
 -
   type: WeChat
   icon: 'fab fa-weixin'
-  url: 'https://gitee.com/guocy112/obvio/raw/master/WeChat.jpg'
+  url: 'https://github.com/obviokuo/obviokuo.github.io/blob/main/commons/WeChat.jpg?raw=true'
 -
   type: QQ
   icon: 'fab fa-qq'
-  url: 'https://gitee.com/guocy112/obvio/raw/master/QQ.jpg'
+  url: 'https://github.com/obviokuo/obviokuo.github.io/blob/main/commons/QQ.jpg?raw=true'
 -
   type: email
   icon: 'fas fa-envelope'
