@@ -54,8 +54,8 @@ social:
     - https://zhihu.com/people/guo-chang-yin-5    # change to your weibo homepage
     - https://douban.com/people/Obvio    # change to your douban homepage
     - https://weibo.com/u/6049673212    # change to your weibo homepage
-    - https://github.com/obviokuo/obviokuo.github.io/blob/main/commons/WeChat.jpg?raw=true    # change to your WeChat QRcode
-    - https://github.com/obviokuo/obviokuo.github.io/blob/main/commons/QQ.jpg?raw=true    # change to your QQ QRcode
+    - https://gitee.com/guocy112/obvio/raw/master/WeChat.jpg    # change to your WeChat QRcode
+    - https://gitee.com/guocy112/obvio/raw/master/QQ.jpg    # change to your QQ QRcode
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
