@@ -6,22 +6,21 @@ categories: [讲话]
 tags: [中文, 致辞, 叶建春]     # TAG names should always be lowercase
 math: true
 mermaid: true
+image:
+  path: /commons/yejianchun.jpg
+  width: 800
+  height: 500
+  alt: 江西省委副书记、代省长叶建春
 ---
-
-![img-description](https://pics3.baidu.com/feed/d62a6059252dd42a64b4efd38779fcbcc8eab8d1.jpeg)
-_江西省委副书记、代省长叶建春_
-
 
 12月29日，第三届滕王阁创投峰会在南昌开幕。省委副书记、代省长**叶建春**出席开幕式并致辞。
 
 ---
 # 致辞全文
 
-**拥抱江西就是拥抱希望**
+**<center>拥抱江西就是拥抱希望</center>**
 
-**投资江西就是投资未来**
-
-——叶建春在第三届滕王阁创投峰会上的致辞
+**<center>投资江西就是投资未来</center>**
 
 尊敬的各位企业家、各位来宾，
 
